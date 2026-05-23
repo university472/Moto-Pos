@@ -1,0 +1,10 @@
+// backend/src/models/index.ts — ALL models now exported
+export { default as User } from './User.model'
+export { default as Brand } from './Brand.model'
+export { default as Category } from './Category.model'
+export { default as Product } from './Product.model'
+export { default as Sale } from './Sale.model'
+export { default as Purchase } from './Purchase.model'
+export { default as Supplier } from './Supplier.model'
+export { default as Return } from './Return.model'
+export { default as Setting } from './Setting.model'
